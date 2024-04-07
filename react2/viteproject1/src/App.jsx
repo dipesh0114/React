@@ -1,11 +1,9 @@
+import React from 'react'
 
-import Chai from "./chai"
 function App() {
-
   return (
-    <Chai/>
+    <div>HELLO</div>
   )
 }
 
 export default App
-
